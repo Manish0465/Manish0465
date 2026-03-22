@@ -30,14 +30,24 @@
 ---
 
 ## 🌐 Connect With Me  
+
 <p align="left">
-<a href="https://www.linkedin.com/in/manish-mahajan-0a7b59273/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" width="40" />
+
+<a href="https://www.linkedin.com/in/manish-mahajan-0a7b59273/" target="_blank">
+<img src="https://img.icons8.com/color/48/linkedin.png" height="40"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.hackerrank.com/mrmahajan04" target="_blank">
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" height="40"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/w2BYcImzwo" target="_blank">
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="40"/>
 </a>
 
+</p>
 
 ---
-
 ## 🔥 Current Focus  
 - 🚀 Building scalable apps  
 - 💡 Startup ideas & execution  
